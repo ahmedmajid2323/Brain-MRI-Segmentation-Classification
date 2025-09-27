@@ -1,0 +1,112 @@
+accession,patient_id,age_at_bm_dx,sex,packyear_smoking_hx,nih_racial_category,kps_at_bm_dx,age_at_resection,size_of_dominant_lesion,number_of_bm_lesions_at_dx,location_of_lesion,histologic_subtype,gpa_histology_class,presence_of_extracranial_mets_at_dx_1__yes_0__no,egfr_status_1__mutation_0__wt,alk_status_1__mutation_0__wt,pdl1_status_1__mutation_0__wt,sperduto_gpa
+YG_XKGYFGZHUMTO,YG_0427RC24FT6W,72,Female,76,White,70,73,4.4,1,right suboccipital,SCLC,SCLC,1,0,0,0,2.0
+YG_HAEAKFOSOSWC,YG_0AXGKD8AFJGS,65,Male,23,White,100,65,3.2,2,anterior superior left cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,3.0
+YG_985XO5NHL516,YG_0IBUXTBINCD9,56,Female,34,White,100,56,4.0,5,right occipital and right cerebellar,LCNEC,NSCLC Non-adenocarcinoma,1,0,0,0,2.5
+YG_WNJIJZXQW7BT,YG_0LCI9NV44UK0,70,Female,40,White,80,70,1.7,5,right parietal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,1,1.5
+YG_3ULZIC6OE5NB,YG_1BZ1NP805Q9J,63,Female,15,White,90,63,1.2,3,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,1,0,0,2.5
+YG_6U4LW891P2JA,YG_1PHFOPJWEXFN,50,Female,9,White,90,50,2.7,1,right frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,3.0
+YG_U8D90FYR7XQ6,YG_1PHFOPJWEXFN,50,Female,9,White,90,53,2.1,1,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,3.0
+YG_QDPH4L1OB5Q3,YG_29KZUMN7VC2P,61,Female,10,Black or African American,60,61,1.7,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.5
+YG_MGO4964VSKLW,YG_2GBL4CHD8WHX,60,Female,5,White,60,60,3.1,8,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,1,0,0,1.0
+YG_PT6LAWSXHST3,YG_2XR67085OZD3,72,Male,15,Asian,60,72,2.9,14,left cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.0
+YG_XY6SP25JK2UJ,YG_319S0V0DN4BI,71,Male,1,White,90,71,2.3,1,left occipital,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,1,3.0
+YG_W7KRO4CZBDJ3,YG_3BA252G5NYX1,69,Male,45,White,70,69,3.6,5,left fronto-parietal,SCLC,SCLC,1,0,0,0,1.5
+YG_NHXKSO7LZ3OZ,YG_3XK3D2ZF8DMH,73,Female,58,White,80,79,3.0,22,right superior midline cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_E0SJA5ZEGI6T,YG_496GIWWLVB29,66,Male,60,White,60,66,3.0,10,right parietal and left occipital,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,1.5
+YG_748ADE23A96L,YG_4C0NA9IRB1QB,69,Male,75,White,100,69,2.9,1,left temporo-occipial,LUAD,NSCLC Adenocarcinoma,0,0,0,1,3.5
+YG_ZBH4LHYK7KVT,YG_4MLUYTIFQUBW,51,Male,3,Black or African American,80,51,2.9,1,right posterior temporal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,2.0
+YG_MGRE5V4Q0I2R,YG_4MLUYTIFQUBW,51,Male,3,Black or African American,80,52,3.7,1,right frontal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,2.0
+YG_OONB74IHNGUI,YG_577MQ5KBZS0H,52,Male,2,White,80,52,3.0,4,left posterior frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_0CBM148C1MFN,YG_5AHF9B8AY5XH,73,Female,15,White,70,73,1.2,2,right parietal,SCLC,SCLC,1,0,0,0,2.0
+YG_LDY21C4TSC7L,YG_5BOHJBD69BE2,58,Male,30,White,60,58,4.7,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_34W2PP4X6FL6,YG_5E1M7C728HGS,55,Male,26,White,70,55,4.2,4,left frontal,LUAD,NSCLC Adenocarcinoma,1,0,0,1,1.5
+YG_VNUGR99FHDRB,YG_5FDHH1V8CXIN,76,Female,50,White,60,76,3.4,1,right frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_JCGGWVPZ3S0Z,YG_5RULD5VBR69R,64,Female,Never,White,60,64,4.4,1,left temporal,LUAD,NSCLC Adenocarcinoma,0,0,0,0,2.0
+YG_6NJKER3GCTC9,YG_7CFFQ8CEFDI1,66,Female,25,White,90,66,1.5,6,left posterior temporal,LUAD,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_3YJ63A56N6VQ,YG_7FENKIP5LB9J,60,Male,25,White,70,60,2.4,1,left frontal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,2.0
+YG_DAG9VMDZP5V1,YG_7T9KUBGALY6J,76,Male,Never,White,90,76,4.3,1,left frontal,SCLC,SCLC,1,0,0,0,2.5
+YG_TB3261RS6ME1,YG_7XAC4UA79MQG,76,Male,Never,White,60,76,3.4,1,left parieto-occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_A9LZ4KMS3CMI,YG_84XHOHT21OSX,63,Male,40,White,90,63,3.3,2,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,2.5
+YG_2I5MDHB0AXEA,YG_8BWPKW2BZJR6,65,Female,100,White,80,67,3.2,2,medial left temporal,LCNEC,NSCLC Non-adenocarcinoma,1,0,0,0,2.5
+YG_LSMF1KDV6GFL,YG_8C4Q7MZ67UAA,35,Female,Never,Black or African American,70,35,3.1,35,right frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_LG5SV5PWDEBF,YG_8U5FP0OAOYYM,66,Male,50,White,70,66,2.5,25,left parietal,LUAD,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_PJ6VL4EIAVKN,YG_99KC3LT12FVW,72,Male,80,White,70,72,5.3,1,left parietal,Adenosquamous,NSCLC Non-adenocarcinoma,1,0,0,0,1.5
+YG_38SD26C9HLLT,YG_9AGEE45MLXUH,68,Female,52,White,100,72,5.8,4,right frontal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,3.0
+YG_827U9W3DNZW2,YG_9COK2P7WTBG3,60,Female,60,White,60,60,4.2,14,right suboccipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,1,0,0,1.0
+YG_F2VHX1DGAYIC,YG_9GMSWU2Q870V,63,Male,15,White,80,63,2.0,1,right frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,2.5
+YG_FBCLQ9J1UEZY,YG_9O2H2TZ8LMAX,75,Female,50,White,70,75,4.1,1,left temporal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_SVOESMUJE9C2,YG_9WWGRMFA0K0P,65,Male,125,White,100,65,3.4,2,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,2.0
+YG_2VWCV5YWB078,YG_AYE9CKKCPJC9,76,Male,80,White,100,76,6.5,1,right frontal,LUAD,NSCLC Adenocarcinoma,0,0,0,0,2.5
+YG_AGXLFWLSM70S,YG_B5T1BHE5XSV0,80,Female,35,White,60,80,3.1,2,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,1.5
+YG_FH82F8IE9K3H,YG_B6CXXRXAJ0X4,62,Female,40,White,80,65,3.5,1,right posterior temporal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_P8W7SBCME4VH,YG_B6CXXRXAJ0X4,62,Female,40,White,80,65,3.8,1,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_DFB3TW2VVCYK,YG_BCDAEVJ1MKWU,50,Male,40,White,80,50,2.8,2,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,2.5
+YG_3OAF908JG3XG,YG_BZSL2NH394EI,86,Female,Never,White,100,86,2.2,1,right precentral gyrus,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,1,2.5
+YG_TTVMAOQ58J1J,YG_CRQQC190OSR0,41,Female,20,White,80,48,3.3,1,left occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_BQQF9664YAU5,YG_E4XFTC7YFCOG,70,Female,5,White,80,75,2.0,1,left occipital,LUAD,NSCLC Adenocarcinoma,1,1,0,0,1.5
+YG_HUD40BU36H9E,YG_EBZJBBZZMGC8,80,Male,20,White,70,80,2.5,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,0,2.0
+YG_XMCGCFTP0CC0,YG_EIXIDJVT5GPO,62,Male,20,Black or African American,60,62,4.8,25,left frontal,SCLC,SCLC,0,0,0,0,1.0
+YG_PN1GGCPTKE1T,YG_EZIT3PDD4KKJ,75,Male,35,White,90,75,2.9,4,left parietal,NSCLC (PD carcinoma),NSCLC Non-adenocarcinoma,1,0,0,1,2.5
+YG_TS0QSN58FLFU,YG_FEOUGQ9H3XD6,68,Male,40,White,60,68,2.0,2,right precentral gyrus,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_62XGKPMBQUTH,YG_FF8XLGFXUASM,84,Female,30,White,70,84,4.6,1,right occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,1,0,1.5
+YG_EZWYLLB6BKIS,YG_FW0P8NBJDY5K,72,Female,50,White,80,72,3.9,1,left suboccipital,NSCLC (SMARCA4-DEF TUMOR),NSCLC Non-adenocarcinoma,0,0,0,0,3.0
+YG_CIVF62SD7HC3,YG_GAC6B8W33YKF,81,Female,Never,White,70,81,2.6,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,0,2.0
+YG_V6WILIQCL1EM,YG_GG3ZJAY2BSIH,78,Male,15,White,90,80,2.7,2,left parietal,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,0,2.5
+YG_FLTKHZ9CCQVP,YG_GJ6CYUHF3S2M,66,Male,15,Black or African American,60,66,4.4,1,right parietal,NSCLC (NOS),NSCLC Non-adenocarcinoma,1,0,0,0,1.0
+YG_Z78J1BPTED30,YG_GJYAUE7WSY2B,75,Male,75,White,70,75,4.6,5,right frontal,SCLC,SCLC,1,0,0,0,1.0
+YG_4M3SWS9DT0W0,YG_GMQIFAXIRW72,80,Male,40,White,100,82,1.7,6,left temporal and right frontal,SCLC,SCLC,0,0,0,0,3.0
+YG_6ANW17ML2ZXY,YG_GMQIFAXIRW72,80,Male,40,White,100,82,1.3,6,right cerebellum,SCLC,SCLC,0,0,0,0,3.0
+YG_UMS3ARN00O7Q,YG_H7N7PSIX47ZX,71,Female,53,White,80,71,1.6,2,left fronto-parietal,LUAD,NSCLC Adenocarcinoma,0,0,0,1,2.5
+YG_N44P5EWB2TGI,YG_HIJJZI9RFE9A,66,Female,25,Black or African American,50,66,4.2,1,right posterior temporal and right occipital,LUAD,NSCLC Adenocarcinoma,0,0,0,0,2.0
+YG_HHJSDG645U1U,YG_HTN5ED517S8O,73,Male,28,White,70,73,3.3,2,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_KA6BIZWS7TU5,YG_IDHDPS7U4YAO,56,Male,70,Black or African American,80,57,3.4,4,right parieto-occipital,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,1,2.5
+YG_RA7N8XKCHWJW,YG_IL0NGLZKQBUM,74,Female,50,White,60,74,5.0,9,right occipital,LUAD,NSCLC Adenocarcinoma,1,0,0,0,0.0
+YG_5LPM5R5PDW2S,YG_ILLJI7WAW95R,69,Female,Never,Asian,60,69,3.9,7,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,1,0,0,1.0
+YG_RIKABNRC1GGU,YG_INAZO9RXO4X2,60,Male,40,White,90,60,4.1,3,right posterior fossa,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,2.0
+YG_8K0CM0O5X8OW,YG_IVWJVVYJHCVD,65,Female,30,White,70,65,2.3,1,left fronto-parietal,SCLC,SCLC,1,0,0,0,2.0
+YG_IONBN2T5QSBF,YG_JAKV76YJDMNE,63,Male,60,White,80,63,3.4,8,left parietal,LUAD,NSCLC Adenocarcinoma,0,0,0,0,2.0
+YG_USOH1WE4K10O,YG_JTP6LSY7WHED,62,Female,25,White,100,65,1.6,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,3.0
+YG_JJ6C3ZNB2CLF,YG_JTP6LSY7WHED,62,Female,25,White,80,66,1.5,8,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,3.0
+YG_GK99VZLND6JR,YG_JU8KL1I2P9NG,68,Female,40,White,60,68,5.0,1,left parieto-occipital,LUAD,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_UZOLBU0UJ0ZP,YG_KAKYW3W1L76V,61,Male,60,White,70,61,3.0,4,right frontal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,1,2.5
+YG_FZWUWT3HOB1V,YG_KPT9BQ981GIO,66,Female,40,White,100,67,3.8,2,right parieto-occipital,LUAD,NSCLC Adenocarcinoma,1,0,0,1,2.5
+YG_7Q9B55HPYEP8,YG_KPVLACBZETOA,62,Female,30,White,70,62,4.7,9,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_L0WV7DL4DNW0,YG_KXAQ4834P657,66,Female,90,White,70,66,2.4,1,right occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.5
+YG_N1WAQSN5IRL2,YG_KXAQ4834P657,66,Female,90,White,70,67,2.4,1,right parieto-occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.5
+YG_9P6T37XA3XDG,YG_M913KGS30LO4,58,Female,20,White,100,58,2.1,2,right parietal,LCNEC,NSCLC Non-adenocarcinoma,0,0,0,1,4.0
+YG_8TBC6OEVGY2D,YG_M913KGS30LO4,58,Female,20,White,100,59,1.8,2,left occipital,LCNEC,NSCLC Non-adenocarcinoma,0,0,0,1,4.0
+YG_JEBDFNTNS3Z1,YG_MH0L6DRQODEM,72,Female,56,White,60,72,2.8,1,left suboccipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_VLRAC165LOOI,YG_NI79E9RT4NAB,57,Male,45,White,100,57,1.2,6,left temporal,SCLC,SCLC,0,0,0,0,3.5
+YG_37RLQEBG98MP,YG_NMQAZ4BGPGAO,64,Female,25,White,80,64,4.3,20,inferior right frontal and posterior left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,1,0,0,1.5
+YG_MSPIZ41HGCU6,YG_NV9LW7F0H5QW,70,Female,60,White,70,70,3.0,7,left frontal,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,1.0
+YG_LPO2XULIXN9W,YG_OIKAOJQ6O12L,57,Female,20,Black or African American,80,58,2.5,4,left temporal,Adenocarcinoma,NSCLC Adenocarcinoma,0,0,0,0,2.5
+YG_30TUKBI1ZXBK,YG_OKUAVK5GZQCQ,75,Male,Never,Black or African American,100,79,4.2,1,right parieto-occipital,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,0,3.0
+YG_MQP6BODVI9B3,YG_P5JRTWDBQJQ7,59,Female,45,White,90,59,4.8,2,left parietal,LUAD,NSCLC Adenocarcinoma,0,0,0,0,3.0
+YG_D79WDV6LM56N,YG_PFJCP49KY2YS,55,Female,35,White,80,55,3.0,1,left superior frontal gyrus,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_EBD55KZ1V8NM,YG_PFJCP49KY2YS,55,Female,35,White,80,57,3.9,1,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_SAQJZ877R0XQ,YG_QL75W3QG0IZM,58,Male,40,White,60,58,4.6,6,superior cerebellum,NSCLC,NSCLC Non-adenocarcinoma,1,0,0,0,0.5
+YG_S98GUOYZYFJD,YG_QWU3J4MHV5NR,69,Female,45,White,60,69,3.3,1,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_7E5NDHCCM5NM,YG_RBCWTMIJB4DY,62,Female,20,White,60,64,3.6,1,right frontal parietal,LCNEC,NSCLC Non-adenocarcinoma,0,0,0,0,2.0
+YG_XFE7DX3IDU55,YG_RCDISUKGQB7Q,57,Male,35,White,60,57,4.5,1,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_9N53OC2E1U4S,YG_RFYOF7PDCRYB,60,Female,40,Black or African American,80,60,3.5,9,left cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_KUDUDTQCIQMT,YG_RGMHDAYN41MC,49,Female,38,White,80,49,4.7,7,left fronto-parietal,LUAD (mucinous),NSCLC Adenocarcinoma,0,0,0,0,2.0
+YG_3LUYSEZA89OT,YG_RHYE6EO8VFCR,55,Male,59,White,90,55,3.6,5,left frontal,SCLC,SCLC,0,0,0,0,3.0
+YG_B0JG2H7KNW0V,YG_SDSUYRY4EHCT,77,Female,40,White,90,79,4.0,5,right occipital,Adenocarcinoma (Enteric differentiation),NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_ES6X68HBRT2B,YG_T1WMGTOINYOL,67,Female,10,White,70,68,5.9,3,right occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_OKZMVD17QKZS,YG_T3HJ6T2DU5BR,64,Female,40,White,50,64,5.6,1,left cerebellum,SCLC,SCLC,1,0,0,0,1.5
+YG_X0H31MQV52A5,YG_U1QU9ZOD3AQU,56,Female,20,White,80,56,4.0,5,right parietal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_RLQOQB3PRCA6,YG_U5211A92DTR6,70,Male,40,White,60,70,1.7,4,left frontal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.0
+YG_5WXJER534E8W,YG_U8XGWCLACVIF,77,Male,8,White,80,77,5.5,2,right occipital,NSCLC (SMARCA4-DEF TUMOR),NSCLC Non-adenocarcinoma,0,0,0,1,3.0
+YG_Q70O5ZGBYWBC,YG_V3Y4X8TILWR6,63,Female,38,I Prefer Not To Share,80,63,4.5,1,right occipital,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,2.0
+YG_KB1LCW4PCOIS,YG_V840KUFJRQ64,67,Female,30,White,70,67,1.7,1,left frontoparietal,LUAD,NSCLC Adenocarcinoma,0,0,0,0,2.0
+YG_7C0IKK9GHJ7Z,YG_VH6MWI9XM6ZM,61,Male,30,White,80,61,3.8,2,right superior temporal,LUAD,NSCLC Adenocarcinoma,0,0,0,1,3.0
+YG_WY3KFQ1IYNOA,YG_VOQ83HDQETJ5,63,Female,25,White,60,63,3.0,4,left cerebellum,LCNEC,NSCLC Non-adenocarcinoma,1,0,0,0,1.0
+YG_K2W6NCT5QEUZ,YG_VPGSWWDW1DNI,58,Female,20,Black or African American,80,58,3.8,5,right parietal,LUAD,NSCLC Adenocarcinoma,1,0,0,0,1.0
+YG_9VLV5DLCK9YI,YG_VRTWT7O65P41,62,Male,Never,White,100,62,3.5,2,left cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,0,1,0,1,4.0
+YG_0PGQQ6USQ9JB,YG_XNF8USP7AAFH,61,Female,20,Black or African American,70,61,2.3,1,right parietal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.5
+YG_S77I03P4O3LA,YG_XZ7TR0Y19E2I,79,Female,60,White,60,79,3.5,1,right thalamus,LUAD,NSCLC Adenocarcinoma,0,0,0,0,1.5
+YG_FIUSCJCISOT2,YG_YQHEBUBJEGPB,75,Female,Never,Black or African American,60,75,2.1,1,right cerebellum,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_K04YUWH1VDV0,YG_Z81PQQLMPU08,67,Female,5,Black or African American,80,67,3.5,2,right temporal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,1.5
+YG_4RD15Z2MNGTF,YG_ZA9SKV5DT0NL,71,Female,50,White,60,71,3.6,1,left temporal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,0,0.5
+YG_31S9L6RD6RCA,YG_ZKYWHABCTBO6,75,Male,Never,White,70,75,3.7,2,left suboccipital (superior cerebellum),SCC,NSCLC Non-adenocarcinoma,1,0,0,0,1.5
+YG_OUD88SBAPAOC,YG_ZZD94XZ3WNE2,64,Female,50,White,70,64,3.1,2,left fronto-parietal,Adenocarcinoma,NSCLC Adenocarcinoma,1,0,0,1,1.5
