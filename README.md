@@ -39,11 +39,12 @@ We used the **Brain Mets Lung MRI Path Segs** dataset:
    pip install -r requirements.txt
 
 4. **Data organization**
-data/
-├── dataset/
-│ ├── patient_id/ # Contains .nii.gz MRI files and masks
-│
-└── clinical_data.xlsx # Clinical tabular data
+   ```
+   data/
+   ├── dataset/
+   │ ├── patient_id/ # Contains .nii.gz MRI files and masks
+   │
+   └── clinical_data.xlsx # Clinical tabular data
 
 ---
 
